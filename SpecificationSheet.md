@@ -24,6 +24,7 @@ Each will have their own Role-based permissions (what they can see and do on the
   
 ### Instructor
 #### Access Details
+* Generate grade report
  
 ### Student
 #### Access Details
